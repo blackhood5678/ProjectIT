@@ -11,5 +11,5 @@ git config --user.email "email"
 adding files
 git add -A =adds files to the staging area(not commmited)
 git status =check the status of the files that r not commited
+git commit -m "messege" = commiting the files to the repository(its important to add messege so we all know what u added)
 git reset = removes files from the staging area
-git commit -m "messege" = commiting the files(its important to add messege so we all know what u added)

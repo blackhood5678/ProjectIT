@@ -1,9 +1,0 @@
-Graphics design
-	- Buttons & menu
-	- Background
-	- Rocket
-Programing 
-	- relation to the button and gravity meter
-	- rocket mechanics
-	- background moving
-Github
